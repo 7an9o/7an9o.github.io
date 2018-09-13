@@ -25,19 +25,19 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # your wechat image file path
-  QQ: '' # your QQ image file path
-  weibo: ''
-  instagram: ''
-  twitter: ''
-  github: ''
-  Dribbble: ''
-  facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  mail: 'pengsijun96@gmail.com'
+  #weixin: '' # your wechat image file path
+  #QQ: '' # your QQ image file path
+  #weibo: ''
+  #instagram: ''
+  #twitter: ''
+  github: 'https://github.com/7an9o'
+  #Dribbble: ''
+  #facebook: ''
+  #Google: ''
+  #zhihu: ''
+  #juejin: ''
+  #twitch: ''
 
 # 分页
 paginate: 2
